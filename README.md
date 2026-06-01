@@ -74,7 +74,7 @@ The system is implemented using Python, OpenCV, TensorFlow Lite, Dlib, and Tkint
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/face-auth-pet-classification.git
+git clone https://github.com/haojie-dev-builds/Pet-Classification.git
 cd face-auth-pet-classification
 ```
 
